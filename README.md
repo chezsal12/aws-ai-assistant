@@ -310,6 +310,7 @@ MIT-0 - See [LICENSE](LICENSE)
 ## 📞 Support
 
 - **Issues**: [GitHub Issues](https://github.com/chezsal12/aws-ai-assistant/issues)
+- **Author**: [Chezsal Kamaray on LinkedIn](https://www.linkedin.com/in/chezsal-kamaray-beng-hons-msc-pmp-666bb715/)
 
 ---
 
