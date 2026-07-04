@@ -1,7 +1,7 @@
 """
 Bedrock Client
 
-Handles interactions with Amazon Bedrock (Claude 3.5 Sonnet).
+Handles interactions with Amazon Bedrock (Claude Sonnet 4.6).
 """
 
 import json
@@ -31,7 +31,7 @@ class BedrockClient:
         )
         self.model_id = config.get(
             'bedrock_model_id',
-            'anthropic.claude-3-5-sonnet-20241022-v2:0'
+            'anthropic.claude-sonnet-4-6'
         )
 
     def get_completion(

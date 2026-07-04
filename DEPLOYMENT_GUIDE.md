@@ -239,7 +239,7 @@ If you see model IDs, you're good!
 If not, enable Bedrock model access:
 1. Go to https://console.aws.amazon.com/bedrock/home#/modelaccess
 2. Click **"Manage model access"**
-3. Enable **"Claude 3.5 Sonnet v2"**
+3. Enable **"Claude Sonnet 4.6 v2"**
 4. Click **"Save changes"**
 
 ---

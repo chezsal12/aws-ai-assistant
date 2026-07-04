@@ -241,7 +241,7 @@ SLACK_SIGNING_SECRET=abc123...     # From Slack App Basic Info
 
 # Bedrock
 BEDROCK_REGION=us-east-1
-BEDROCK_MODEL_ID=anthropic.claude-3-5-sonnet-20241022-v2:0
+BEDROCK_MODEL_ID=anthropic.claude-sonnet-4-6
 MAX_TOKENS=2000
 TEMPERATURE=0.7
 
@@ -313,4 +313,4 @@ MIT-0 - See [LICENSE](LICENSE)
 
 ---
 
-**Built with ❤️ using Amazon Bedrock (Claude 3.5 Sonnet)**
+**Built with ❤️ using Amazon Bedrock (Claude Sonnet 4.6)**

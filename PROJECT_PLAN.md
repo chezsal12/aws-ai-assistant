@@ -88,7 +88,7 @@ Build an intelligent AWS assistant that combines RAG (documentation search) with
 - **API Gateway**: REST API for Slack events
 - **Compute**: Lambda (Python 3.12)
 - **Vector DB**: OpenSearch Serverless (for embeddings)
-- **AI Model**: Bedrock (Claude 3.5 Sonnet)
+- **AI Model**: Bedrock (Claude Sonnet 4.6)
 - **Storage**: DynamoDB (chat history), S3 (cached docs)
 - **Embeddings**: Bedrock (Titan Embeddings)
 
